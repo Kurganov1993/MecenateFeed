@@ -1,4 +1,4 @@
-markdown
+
 # Mecenate Feed – тестовое задание
 
 Мобильное приложение на React Native (Expo) для отображения ленты публикаций платформы Mecenate (аналог Patreon/Boosty).
